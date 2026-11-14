@@ -4,6 +4,7 @@
   <h3>Full-stack developer · .NET &amp; Angular</h3>
   <p>I build business software that keeps the books balanced, the people paid, and the shelves in order.</p>
   <p>
+    <a href="https://sulmak.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-b5822a?style=flat-square&logo=googlechrome&logoColor=white" alt="Live portfolio"></a>
     <a href="mailto:sulmak.mridha@gmail.com"><img src="https://img.shields.io/badge/Email-sulmak.mridha@gmail.com-b5822a?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://github.com/sulmak?tab=repositories"><img src="https://img.shields.io/badge/Repositories-sulmak-14213d?style=flat-square&logo=github&logoColor=white" alt="Repositories"></a>
   </p>
